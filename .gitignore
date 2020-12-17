@@ -1,0 +1,8 @@
+# ignore Node Modules
+node_modules
+
+# ignore underscore folders
+_*
+
+# ignore afphoto files
+*.afphoto 

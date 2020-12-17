@@ -1,0 +1,29 @@
+{
+    "name": "web-helper",
+    "description": "A collection of node.js scripts to help on every day webdev problems",
+    "version": "1.0.0",
+    "author": "Nikolas Schwarz",
+    "homepage": "https://evolut.solutions",
+    "contributors": [
+        "Nikolas Schwarz <nikolas.schwarz@evolut.solutions> (https://github.com/nikolas-schwarz)"
+    ],
+    "dependencies": {
+        "img-diff-js": "0.5.0"
+    },
+    "devDependencies": {
+        "img-diff-js": "0.5.0"
+    },
+    "keywords": [
+        "nodejs",
+        "node-js",
+        "helper",
+        "helper-tool"
+    ],
+    "repository": "https://github.com/nikolas-schwarz/web-helper",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ]
+}
